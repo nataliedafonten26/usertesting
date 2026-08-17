@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-828 -1782C-828 -1783.1 -827.105 -1784 -826 -1784H130C131.105 -1784 132 -1783.1 132 -1782V1030C132 1031.1 131.105 1032 130 1032H-826C-827.105 1032 -828 1031.1 -828 1030V-1782Z" fill="#444444"/>
+<path d="M-826 -1784V-1783H130V-1784V-1785H-826V-1784ZM132 -1782H131V1030H132H133V-1782H132ZM130 1032V1031H-826V1032V1033H130V1032ZM-828 1030H-827V-1782H-828H-829V1030H-828ZM-826 1032V1031C-826.552 1031 -827 1030.55 -827 1030H-828H-829C-829 1031.66 -827.657 1033 -826 1033V1032ZM132 1030H131C131 1030.55 130.552 1031 130 1031V1032V1033C131.657 1033 133 1031.66 133 1030H132ZM130 -1784V-1783C130.552 -1783 131 -1782.55 131 -1782H132H133C133 -1783.66 131.657 -1785 130 -1785V-1784ZM-826 -1784V-1785C-827.657 -1785 -829 -1783.66 -829 -1782H-828H-827C-827 -1782.55 -826.552 -1783 -826 -1783V-1784Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="nigeria" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#6DA544"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

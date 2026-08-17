@@ -1,0 +1,23 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-540 -1878C-540 -1879.1 -539.105 -1880 -538 -1880H418C419.105 -1880 420 -1879.1 420 -1878V934C420 935.104 419.105 936 418 936H-538C-539.105 936 -540 935.104 -540 934V-1878Z" fill="#444444"/>
+<path d="M-538 -1880V-1879H418V-1880V-1881H-538V-1880ZM420 -1878H419V934H420H421V-1878H420ZM418 936V935H-538V936V937H418V936ZM-540 934H-539V-1878H-540H-541V934H-540ZM-538 936V935C-538.552 935 -539 934.552 -539 934H-540H-541C-541 935.657 -539.657 937 -538 937V936ZM420 934H419C419 934.552 418.552 935 418 935V936V937C419.657 937 421 935.657 421 934H420ZM418 -1880V-1879C418.552 -1879 419 -1878.55 419 -1878H420H421C421 -1879.66 419.657 -1881 418 -1881V-1880ZM-538 -1880V-1881C-539.657 -1881 -541 -1879.66 -541 -1878H-540H-539C-539 -1878.55 -538.552 -1879 -538 -1879V-1880Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="oman" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#6DA544"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="26.5781" height="72" fill="#D80027"/>
+<path id="Symbol" d="M22.0248 15.842L18.7045 12.5217L16.491 14.7354L14.2776 12.5217L10.9573 15.842L13.1709 18.0556L10.957 20.2693L14.2773 23.5896L16.4909 21.3759L18.7045 23.5896L22.0248 20.2693L19.8112 18.0556L22.0248 15.842Z" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-252 -2454C-252 -2455.1 -251.105 -2456 -250 -2456H706C707.105 -2456 708 -2455.1 708 -2454V358C708 359.104 707.105 360 706 360H-250C-251.105 360 -252 359.104 -252 358V-2454Z" fill="#444444"/>
+<path d="M-250 -2456V-2455H706V-2456V-2457H-250V-2456ZM708 -2454H707V358H708H709V-2454H708ZM706 360V359H-250V360V361H706V360ZM-252 358H-251V-2454H-252H-253V358H-252ZM-250 360V359C-250.552 359 -251 358.552 -251 358H-252H-253C-253 359.657 -251.657 361 -250 361V360ZM708 358H707C707 358.552 706.552 359 706 359V360V361C707.657 361 709 359.657 709 358H708ZM706 -2456V-2455C706.552 -2455 707 -2454.55 707 -2454H708H709C709 -2455.66 707.657 -2457 706 -2457V-2456ZM-250 -2456V-2457C-251.657 -2457 -253 -2455.66 -253 -2454H-252H-251C-251 -2454.55 -250.552 -2455 -250 -2455V-2456Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="thailand" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#0052B4"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Bottom Stripe_2" y="59.4844" width="10.9687" height="72" transform="rotate(-90 0 59.4844)" fill="#F0F0F0"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#D80027"/>
+<rect id="Top Stripe_2" y="23.4844" width="10.9687" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

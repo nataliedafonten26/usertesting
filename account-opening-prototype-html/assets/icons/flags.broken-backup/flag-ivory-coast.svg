@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-156 -1302C-156 -1303.1 -155.105 -1304 -154 -1304H802C803.105 -1304 804 -1303.1 804 -1302V1510C804 1511.1 803.105 1512 802 1512H-154C-155.105 1512 -156 1511.1 -156 1510V-1302Z" fill="#444444"/>
+<path d="M-154 -1304V-1303H802V-1304V-1305H-154V-1304ZM804 -1302H803V1510H804H805V-1302H804ZM802 1512V1511H-154V1512V1513H802V1512ZM-156 1510H-155V-1302H-156H-157V1510H-156ZM-154 1512V1511C-154.552 1511 -155 1510.55 -155 1510H-156H-157C-157 1511.66 -155.657 1513 -154 1513V1512ZM804 1510H803C803 1510.55 802.552 1511 802 1511V1512V1513C803.657 1513 805 1511.66 805 1510H804ZM802 -1304V-1303C802.552 -1303 803 -1302.55 803 -1302H804H805C805 -1303.66 803.657 -1305 802 -1305V-1304ZM-154 -1304V-1305C-155.657 -1305 -157 -1303.66 -157 -1302H-156H-155C-155 -1302.55 -154.552 -1303 -154 -1303V-1304Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="ivory-coast" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#FF9811"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

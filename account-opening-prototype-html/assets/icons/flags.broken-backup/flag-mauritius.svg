@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -1590C-636 -1591.1 -635.105 -1592 -634 -1592H322C323.105 -1592 324 -1591.1 324 -1590V1222C324 1223.1 323.105 1224 322 1224H-634C-635.105 1224 -636 1223.1 -636 1222V-1590Z" fill="#444444"/>
+<path d="M-634 -1592V-1591H322V-1592V-1593H-634V-1592ZM324 -1590H323V1222H324H325V-1590H324ZM322 1224V1223H-634V1224V1225H322V1224ZM-636 1222H-635V-1590H-636H-637V1222H-636ZM-634 1224V1223C-634.552 1223 -635 1222.55 -635 1222H-636H-637C-637 1223.66 -635.657 1225 -634 1225V1224ZM324 1222H323C323 1222.55 322.552 1223 322 1223V1224V1225C323.657 1225 325 1223.66 325 1222H324ZM322 -1592V-1591C322.552 -1591 323 -1590.55 323 -1590H324H325C325 -1591.66 323.657 -1593 322 -1593V-1592ZM-634 -1592V-1593C-635.657 -1593 -637 -1591.66 -637 -1590H-636H-635C-635 -1590.55 -634.552 -1591 -634 -1591V-1592Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="mauritius" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#6DA544"/>
+<rect id="Stripe" width="72" height="18" fill="#D80027"/>
+<rect id="Stripe_2" y="36" width="72" height="18" fill="#FFDA44"/>
+<rect id="Stripe_3" y="18" width="72" height="18" fill="#0052B4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

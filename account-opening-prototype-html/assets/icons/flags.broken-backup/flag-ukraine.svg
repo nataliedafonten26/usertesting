@@ -1,0 +1,20 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-444 -2550C-444 -2551.1 -443.105 -2552 -442 -2552H514C515.105 -2552 516 -2551.1 516 -2550V262C516 263.104 515.105 264 514 264H-442C-443.105 264 -444 263.104 -444 262V-2550Z" fill="#444444"/>
+<path d="M-442 -2552V-2551H514V-2552V-2553H-442V-2552ZM516 -2550H515V262H516H517V-2550H516ZM514 264V263H-442V264V265H514V264ZM-444 262H-443V-2550H-444H-445V262H-444ZM-442 264V263C-442.552 263 -443 262.552 -443 262H-444H-445C-445 263.657 -443.657 265 -442 265V264ZM516 262H515C515 262.552 514.552 263 514 263V264V265C515.657 265 517 263.657 517 262H516ZM514 -2552V-2551C514.552 -2551 515 -2550.55 515 -2550H516H517C517 -2551.66 515.657 -2553 514 -2553V-2552ZM-442 -2552V-2553C-443.657 -2553 -445 -2551.66 -445 -2550H-444H-443C-443 -2550.55 -442.552 -2551 -442 -2551V-2552Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="ukraine" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#FFDA44"/>
+<rect id="Half" y="36" width="36" height="72" transform="rotate(-90 0 36)" fill="#338AF3"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-60 -1302C-60 -1303.1 -59.1046 -1304 -58 -1304H898C899.105 -1304 900 -1303.1 900 -1302V1510C900 1511.1 899.105 1512 898 1512H-58C-59.1045 1512 -60 1511.1 -60 1510V-1302Z" fill="#444444"/>
+<path d="M-58 -1304V-1303H898V-1304V-1305H-58V-1304ZM900 -1302H899V1510H900H901V-1302H900ZM898 1512V1511H-58V1512V1513H898V1512ZM-60 1510H-59V-1302H-60H-61V1510H-60ZM-58 1512V1511C-58.5523 1511 -59 1510.55 -59 1510H-60H-61C-61 1511.66 -59.6568 1513 -58 1513V1512ZM900 1510H899C899 1510.55 898.552 1511 898 1511V1512V1513C899.657 1513 901 1511.66 901 1510H900ZM898 -1304V-1303C898.552 -1303 899 -1302.55 899 -1302H900H901C901 -1303.66 899.657 -1305 898 -1305V-1304ZM-58 -1304V-1305C-59.6569 -1305 -61 -1303.66 -61 -1302H-60H-59C-59 -1302.55 -58.5522 -1303 -58 -1303V-1304Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="italy" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#6DA544"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

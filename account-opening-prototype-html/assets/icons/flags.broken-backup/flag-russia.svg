@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -2070C-348 -2071.1 -347.105 -2072 -346 -2072H610C611.105 -2072 612 -2071.1 612 -2070V742C612 743.104 611.105 744 610 744H-346C-347.105 744 -348 743.104 -348 742V-2070Z" fill="#444444"/>
+<path d="M-346 -2072V-2071H610V-2072V-2073H-346V-2072ZM612 -2070H611V742H612H613V-2070H612ZM610 744V743H-346V744V745H610V744ZM-348 742H-347V-2070H-348H-349V742H-348ZM-346 744V743C-346.552 743 -347 742.552 -347 742H-348H-349C-349 743.657 -347.657 745 -346 745V744ZM612 742H611C611 742.552 610.552 743 610 743V744V745C611.657 745 613 743.657 613 742H612ZM610 -2072V-2071C610.552 -2071 611 -2070.55 611 -2070H612H613C613 -2071.66 611.657 -2073 610 -2073V-2072ZM-346 -2072V-2073C-347.657 -2073 -349 -2071.66 -349 -2070H-348H-347C-347 -2070.55 -346.552 -2071 -346 -2071V-2072Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="russia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#0052B4"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

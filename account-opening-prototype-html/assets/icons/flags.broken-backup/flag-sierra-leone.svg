@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-60 -2262C-60 -2263.1 -59.1046 -2264 -58 -2264H898C899.105 -2264 900 -2263.1 900 -2262V550C900 551.104 899.105 552 898 552H-58C-59.1045 552 -60 551.104 -60 550V-2262Z" fill="#444444"/>
+<path d="M-58 -2264V-2263H898V-2264V-2265H-58V-2264ZM900 -2262H899V550H900H901V-2262H900ZM898 552V551H-58V552V553H898V552ZM-60 550H-59V-2262H-60H-61V550H-60ZM-58 552V551C-58.5523 551 -59 550.552 -59 550H-60H-61C-61 551.657 -59.6568 553 -58 553V552ZM900 550H899C899 550.552 898.552 551 898 551V552V553C899.657 553 901 551.657 901 550H900ZM898 -2264V-2263C898.552 -2263 899 -2262.55 899 -2262H900H901C901 -2263.66 899.657 -2265 898 -2265V-2264ZM-58 -2264V-2265C-59.6569 -2265 -61 -2263.66 -61 -2262H-60H-59C-59 -2262.55 -58.5522 -2263 -58 -2263V-2264Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="sierra-leone" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#338AF3"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-156 -342C-156 -343.105 -155.105 -344 -154 -344H802C803.105 -344 804 -343.105 804 -342V2470C804 2471.1 803.105 2472 802 2472H-154C-155.105 2472 -156 2471.1 -156 2470V-342Z" fill="#444444"/>
+<path d="M-154 -344V-343H802V-344V-345H-154V-344ZM804 -342H803V2470H804H805V-342H804ZM802 2472V2471H-154V2472V2473H802V2472ZM-156 2470H-155V-342H-156H-157V2470H-156ZM-154 2472V2471C-154.552 2471 -155 2470.55 -155 2470H-156H-157C-157 2471.66 -155.657 2473 -154 2473V2472ZM804 2470H803C803 2470.55 802.552 2471 802 2471V2472V2473C803.657 2473 805 2471.66 805 2470H804ZM802 -344V-343C802.552 -343 803 -342.552 803 -342H804H805C805 -343.657 803.657 -345 802 -345V-344ZM-154 -344V-345C-155.657 -345 -157 -343.657 -157 -342H-156H-155C-155 -342.552 -154.552 -343 -154 -343V-344Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="belgium" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#FFDA44"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="black"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

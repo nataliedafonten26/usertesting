@@ -1,0 +1,23 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-444 -2358C-444 -2359.1 -443.105 -2360 -442 -2360H514C515.105 -2360 516 -2359.1 516 -2358V454C516 455.104 515.105 456 514 456H-442C-443.105 456 -444 455.104 -444 454V-2358Z" fill="#444444"/>
+<path d="M-442 -2360V-2359H514V-2360V-2361H-442V-2360ZM516 -2358H515V454H516H517V-2358H516ZM514 456V455H-442V456V457H514V456ZM-444 454H-443V-2358H-444H-445V454H-444ZM-442 456V455C-442.552 455 -443 454.552 -443 454H-444H-445C-445 455.657 -443.657 457 -442 457V456ZM516 454H515C515 454.552 514.552 455 514 455V456V457C515.657 457 517 455.657 517 454H516ZM514 -2360V-2359C514.552 -2359 515 -2358.55 515 -2358H516H517C517 -2359.66 515.657 -2361 514 -2361V-2360ZM-442 -2360V-2361C-443.657 -2361 -445 -2359.66 -445 -2358H-444H-443C-443 -2358.55 -442.552 -2359 -442 -2359V-2360Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="suriname" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#6DA544"/>
+<rect id="Stripe" y="23.4844" width="7.875" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+<rect id="Stripe_2" y="56.3906" width="7.875" height="72" transform="rotate(-90 0 56.3906)" fill="#F0F0F0"/>
+<rect id="Stripe_3" y="48.5156" width="25.0312" height="72" transform="rotate(-90 0 48.5156)" fill="#A2001D"/>
+<path id="Symbol" d="M36.0001 23.4785L39.1081 33.0438H49.1663L41.0292 38.9563L44.1374 48.5219L36.0001 42.6101L27.8629 48.5219L30.9713 38.9563L22.834 33.0438H32.8922L36.0001 23.4785Z" fill="#FFDA44"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

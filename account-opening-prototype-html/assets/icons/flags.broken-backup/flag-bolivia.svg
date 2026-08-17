@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -342C-636 -343.105 -635.105 -344 -634 -344H322C323.105 -344 324 -343.105 324 -342V2470C324 2471.1 323.105 2472 322 2472H-634C-635.105 2472 -636 2471.1 -636 2470V-342Z" fill="#444444"/>
+<path d="M-634 -344V-343H322V-344V-345H-634V-344ZM324 -342H323V2470H324H325V-342H324ZM322 2472V2471H-634V2472V2473H322V2472ZM-636 2470H-635V-342H-636H-637V2470H-636ZM-634 2472V2471C-634.552 2471 -635 2470.55 -635 2470H-636H-637C-637 2471.66 -635.657 2473 -634 2473V2472ZM324 2470H323C323 2470.55 322.552 2471 322 2471V2472V2473C323.657 2473 325 2471.66 325 2470H324ZM322 -344V-343C322.552 -343 323 -342.552 323 -342H324H325C325 -343.657 323.657 -345 322 -345V-344ZM-634 -344V-345C-635.657 -345 -637 -343.657 -637 -342H-636H-635C-635 -342.552 -634.552 -343 -634 -343V-344Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="bolivia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#FFDA44"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#6DA544"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -1398C-636 -1399.1 -635.105 -1400 -634 -1400H322C323.105 -1400 324 -1399.1 324 -1398V1414C324 1415.1 323.105 1416 322 1416H-634C-635.105 1416 -636 1415.1 -636 1414V-1398Z" fill="#444444"/>
+<path d="M-634 -1400V-1399H322V-1400V-1401H-634V-1400ZM324 -1398H323V1414H324H325V-1398H324ZM322 1416V1415H-634V1416V1417H322V1416ZM-636 1414H-635V-1398H-636H-637V1414H-636ZM-634 1416V1415C-634.552 1415 -635 1414.55 -635 1414H-636H-637C-637 1415.66 -635.657 1417 -634 1417V1416ZM324 1414H323C323 1414.55 322.552 1415 322 1415V1416V1417C323.657 1417 325 1415.66 325 1414H324ZM322 -1400V-1399C322.552 -1399 323 -1398.55 323 -1398H324H325C325 -1399.66 323.657 -1401 322 -1401V-1400ZM-634 -1400V-1401C-635.657 -1401 -637 -1399.66 -637 -1398H-636H-635C-635 -1398.55 -634.552 -1399 -634 -1399V-1400Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="latvia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#A2001D"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#A2001D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

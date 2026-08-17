@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -1782C-348 -1783.1 -347.105 -1784 -346 -1784H610C611.105 -1784 612 -1783.1 612 -1782V1030C612 1031.1 611.105 1032 610 1032H-346C-347.105 1032 -348 1031.1 -348 1030V-1782Z" fill="#444444"/>
+<path d="M-346 -1784V-1783H610V-1784V-1785H-346V-1784ZM612 -1782H611V1030H612H613V-1782H612ZM610 1032V1031H-346V1032V1033H610V1032ZM-348 1030H-347V-1782H-348H-349V1030H-348ZM-346 1032V1031C-346.552 1031 -347 1030.55 -347 1030H-348H-349C-349 1031.66 -347.657 1033 -346 1033V1032ZM612 1030H611C611 1030.55 610.552 1031 610 1031V1032V1033C611.657 1033 613 1031.66 613 1030H612ZM610 -1784V-1783C610.552 -1783 611 -1782.55 611 -1782H612H613C613 -1783.66 611.657 -1785 610 -1785V-1784ZM-346 -1784V-1785C-347.657 -1785 -349 -1783.66 -349 -1782H-348H-347C-347 -1782.55 -346.552 -1783 -346 -1783V-1784Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="netherlands" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#0052B4"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#A2001D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

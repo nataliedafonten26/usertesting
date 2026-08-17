@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -1398C-348 -1399.1 -347.105 -1400 -346 -1400H610C611.105 -1400 612 -1399.1 612 -1398V1414C612 1415.1 611.105 1416 610 1416H-346C-347.105 1416 -348 1415.1 -348 1414V-1398Z" fill="#444444"/>
+<path d="M-346 -1400V-1399H610V-1400V-1401H-346V-1400ZM612 -1398H611V1414H612H613V-1398H612ZM610 1416V1415H-346V1416V1417H610V1416ZM-348 1414H-347V-1398H-348H-349V1414H-348ZM-346 1416V1415C-346.552 1415 -347 1414.55 -347 1414H-348H-349C-349 1415.66 -347.657 1417 -346 1417V1416ZM612 1414H611C611 1414.55 610.552 1415 610 1415V1416V1417C611.657 1417 613 1415.66 613 1414H612ZM610 -1400V-1399C610.552 -1399 611 -1398.55 611 -1398H612H613C613 -1399.66 611.657 -1401 610 -1401V-1400ZM-346 -1400V-1401C-347.657 -1401 -349 -1399.66 -349 -1398H-348H-347C-347 -1398.55 -346.552 -1399 -346 -1399V-1400Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="kuwait" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="20.3906" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Top Stripe" y="20.3906" width="20.3906" height="72" transform="rotate(-90 0 20.3906)" fill="#6DA544"/>
+<path id="Left Stripe" d="M0 0L0 72C3.69061 68.3093 11.5466 60.4534 20.3906 51.6094C15.2627 56.7373 25.4686 46.5314 20.3906 51.6094L20.3907 20.3906L0 0Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

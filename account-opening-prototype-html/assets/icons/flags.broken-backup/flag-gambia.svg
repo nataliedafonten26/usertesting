@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-828 -918C-828 -919.105 -827.105 -920 -826 -920H130C131.105 -920 132 -919.105 132 -918V1894C132 1895.1 131.105 1896 130 1896H-826C-827.105 1896 -828 1895.1 -828 1894V-918Z" fill="#444444"/>
+<path d="M-826 -920V-919H130V-920V-921H-826V-920ZM132 -918H131V1894H132H133V-918H132ZM130 1896V1895H-826V1896V1897H130V1896ZM-828 1894H-827V-918H-828H-829V1894H-828ZM-826 1896V1895C-826.552 1895 -827 1894.55 -827 1894H-828H-829C-829 1895.66 -827.657 1897 -826 1897V1896ZM132 1894H131C131 1894.55 130.552 1895 130 1895V1896V1897C131.657 1897 133 1895.66 133 1894H132ZM130 -920V-919C130.552 -919 131 -918.552 131 -918H132H133C133 -919.657 131.657 -921 130 -921V-920ZM-826 -920V-921C-827.657 -921 -829 -919.657 -829 -918H-828H-827C-827 -918.552 -826.552 -919 -826 -919V-920Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="gambia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#0052B4"/>
+<path id="Stripe" d="M72 49.9219H0V45.4219H72V49.9219ZM72 26.5781H0V22.0781H72V26.5781Z" fill="#F0F0F0"/>
+<rect id="Stripe_2" width="72" height="22.0781" fill="#A2001D"/>
+<rect id="Stripe_3" y="49.9219" width="72" height="22.0781" fill="#496E2D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-60 -246C-60 -247.105 -59.1046 -248 -58 -248H898C899.105 -248 900 -247.105 900 -246V2566C900 2567.1 899.105 2568 898 2568H-58C-59.1045 2568 -60 2567.1 -60 2566V-246Z" fill="#444444"/>
+<path d="M-58 -248V-247H898V-248V-249H-58V-248ZM900 -246H899V2566H900H901V-246H900ZM898 2568V2567H-58V2568V2569H898V2568ZM-60 2566H-59V-246H-60H-61V2566H-60ZM-58 2568V2567C-58.5523 2567 -59 2566.55 -59 2566H-60H-61C-61 2567.66 -59.6568 2569 -58 2569V2568ZM900 2566H899C899 2566.55 898.552 2567 898 2567V2568V2569C899.657 2569 901 2567.66 901 2566H900ZM898 -248V-247C898.552 -247 899 -246.552 899 -246H900H901C901 -247.657 899.657 -249 898 -249V-248ZM-58 -248V-249C-59.6569 -249 -61 -247.657 -61 -246H-60H-59C-59 -246.552 -58.5522 -247 -58 -247V-248Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="armenia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#0052B4"/>
+<rect id="Top Stripe" width="72" height="23.4844" fill="#D80027"/>
+<rect id="Bottom Stripe" y="48.5156" width="72" height="23.4844" fill="#FF9811"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

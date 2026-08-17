@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -342C-348 -343.105 -347.105 -344 -346 -344H610C611.105 -344 612 -343.105 612 -342V2470C612 2471.1 611.105 2472 610 2472H-346C-347.105 2472 -348 2471.1 -348 2470V-342Z" fill="#444444"/>
+<path d="M-346 -344V-343H610V-344V-345H-346V-344ZM612 -342H611V2470H612H613V-342H612ZM610 2472V2471H-346V2472V2473H610V2472ZM-348 2470H-347V-342H-348H-349V2470H-348ZM-346 2472V2471C-346.552 2471 -347 2470.55 -347 2470H-348H-349C-349 2471.66 -347.657 2473 -346 2473V2472ZM612 2470H611C611 2470.55 610.552 2471 610 2471V2472V2473C611.657 2473 613 2471.66 613 2470H612ZM610 -344V-343C610.552 -343 611 -342.552 611 -342H612H613C613 -343.657 611.657 -345 610 -345V-344ZM-346 -344V-345C-347.657 -345 -349 -343.657 -349 -342H-348H-347C-347 -342.552 -346.552 -343 -346 -343V-344Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="benin" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#FFDA44"/>
+<rect id="Half" y="36" width="72" height="36" fill="#D80027"/>
+<rect id="Left Stripe" width="26.5781" height="72" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

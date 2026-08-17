@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -246C-348 -247.105 -347.105 -248 -346 -248H610C611.105 -248 612 -247.105 612 -246V2566C612 2567.1 611.105 2568 610 2568H-346C-347.105 2568 -348 2567.1 -348 2566V-246Z" fill="#444444"/>
+<path d="M-346 -248V-247H610V-248V-249H-346V-248ZM612 -246H611V2566H612H613V-246H612ZM610 2568V2567H-346V2568V2569H610V2568ZM-348 2566H-347V-246H-348H-349V2566H-348ZM-346 2568V2567C-346.552 2567 -347 2566.55 -347 2566H-348H-349C-349 2567.66 -347.657 2569 -346 2569V2568ZM612 2566H611C611 2566.55 610.552 2567 610 2567V2568V2569C611.657 2569 613 2567.66 613 2566H612ZM610 -248V-247C610.552 -247 611 -246.552 611 -246H612H613C613 -247.657 611.657 -249 610 -249V-248ZM-346 -248V-249C-347.657 -249 -349 -247.657 -349 -246H-348H-347C-347 -246.552 -346.552 -247 -346 -247V-248Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="austria" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Top Stripe" width="72" height="23.4844" fill="#D80027"/>
+<rect id="Bottom Stripe" y="48.5156" width="72" height="23.4844" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

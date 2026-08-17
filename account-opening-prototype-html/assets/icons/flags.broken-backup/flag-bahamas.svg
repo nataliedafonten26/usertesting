@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-540 -246C-540 -247.105 -539.105 -248 -538 -248H418C419.105 -248 420 -247.105 420 -246V2566C420 2567.1 419.105 2568 418 2568H-538C-539.105 2568 -540 2567.1 -540 2566V-246Z" fill="#444444"/>
+<path d="M-538 -248V-247H418V-248V-249H-538V-248ZM420 -246H419V2566H420H421V-246H420ZM418 2568V2567H-538V2568V2569H418V2568ZM-540 2566H-539V-246H-540H-541V2566H-540ZM-538 2568V2567C-538.552 2567 -539 2566.55 -539 2566H-540H-541C-541 2567.66 -539.657 2569 -538 2569V2568ZM420 2566H419C419 2566.55 418.552 2567 418 2567V2568V2569C419.657 2569 421 2567.66 421 2566H420ZM418 -248V-247C418.552 -247 419 -246.552 419 -246H420H421C421 -247.657 419.657 -249 418 -249V-248ZM-538 -248V-249C-539.657 -249 -541 -247.657 -541 -246H-540H-539C-539 -246.552 -538.552 -247 -538 -247V-248Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="bahamas" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#FFDA44"/>
+<rect id="Top Stripe" width="72" height="23.4844" fill="#338AF3"/>
+<rect id="Bottom Stripe" y="48.5156" width="72" height="23.4844" fill="#338AF3"/>
+<path id="Triangle" d="M0 72V0L36 36L0 72Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

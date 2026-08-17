@@ -1,0 +1,24 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-60 -2166C-60 -2167.1 -59.1046 -2168 -58 -2168H898C899.105 -2168 900 -2167.1 900 -2166V646C900 647.104 899.105 648 898 648H-58C-59.1045 648 -60 647.104 -60 646V-2166Z" fill="#444444"/>
+<path d="M-58 -2168V-2167H898V-2168V-2169H-58V-2168ZM900 -2166H899V646H900H901V-2166H900ZM898 648V647H-58V648V649H898V648ZM-60 646H-59V-2166H-60H-61V646H-60ZM-58 648V647C-58.5523 647 -59 646.552 -59 646H-60H-61C-61 647.657 -59.6568 649 -58 649V648ZM900 646H899C899 646.552 898.552 647 898 647V648V649C899.657 649 901 647.657 901 646H900ZM898 -2168V-2167C898.552 -2167 899 -2166.55 899 -2166H900H901C901 -2167.66 899.657 -2169 898 -2169V-2168ZM-58 -2168V-2169C-59.6569 -2169 -61 -2167.66 -61 -2166H-60H-59C-59 -2166.55 -58.5522 -2167 -58 -2167V-2168Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="saint-lucia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#338AF3"/>
+<g id="Symbol">
+<path id="Vector" d="M22.6953 48.522H49.3041L35.9997 17.2178L22.6953 48.522Z" fill="#F0F0F0"/>
+<path id="Vector_2" d="M27.3193 45.3915L36 25.6465L44.6806 45.3915H27.3193Z" fill="black"/>
+<path id="Vector_3" d="M22.6953 48.5222H49.3041L35.9997 36.0005L22.6953 48.5222Z" fill="#FFDA44"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

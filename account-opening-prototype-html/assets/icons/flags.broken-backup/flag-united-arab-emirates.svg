@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -2550C-636 -2551.1 -635.105 -2552 -634 -2552H322C323.105 -2552 324 -2551.1 324 -2550V262C324 263.104 323.105 264 322 264H-634C-635.105 264 -636 263.104 -636 262V-2550Z" fill="#444444"/>
+<path d="M-634 -2552V-2551H322V-2552V-2553H-634V-2552ZM324 -2550H323V262H324H325V-2550H324ZM322 264V263H-634V264V265H322V264ZM-636 262H-635V-2550H-636H-637V262H-636ZM-634 264V263C-634.552 263 -635 262.552 -635 262H-636H-637C-637 263.657 -635.657 265 -634 265V264ZM324 262H323C323 262.552 322.552 263 322 263V264V265C323.657 265 325 263.657 325 262H324ZM322 -2552V-2551C322.552 -2551 323 -2550.55 323 -2550H324H325C325 -2551.66 323.657 -2553 322 -2553V-2552ZM-634 -2552V-2553C-635.657 -2553 -637 -2551.66 -637 -2550H-636H-635C-635 -2550.55 -634.552 -2551 -634 -2551V-2552Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="united-arab-emirates" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="black"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#6DA544"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

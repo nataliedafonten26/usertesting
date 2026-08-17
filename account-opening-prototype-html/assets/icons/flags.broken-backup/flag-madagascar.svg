@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -1494C-636 -1495.1 -635.105 -1496 -634 -1496H322C323.105 -1496 324 -1495.1 324 -1494V1318C324 1319.1 323.105 1320 322 1320H-634C-635.105 1320 -636 1319.1 -636 1318V-1494Z" fill="#444444"/>
+<path d="M-634 -1496V-1495H322V-1496V-1497H-634V-1496ZM324 -1494H323V1318H324H325V-1494H324ZM322 1320V1319H-634V1320V1321H322V1320ZM-636 1318H-635V-1494H-636H-637V1318H-636ZM-634 1320V1319C-634.552 1319 -635 1318.55 -635 1318H-636H-637C-637 1319.66 -635.657 1321 -634 1321V1320ZM324 1318H323C323 1318.55 322.552 1319 322 1319V1320V1321C323.657 1321 325 1319.66 325 1318H324ZM322 -1496V-1495C322.552 -1495 323 -1494.55 323 -1494H324H325C325 -1495.66 323.657 -1497 322 -1497V-1496ZM-634 -1496V-1497C-635.657 -1497 -637 -1495.66 -637 -1494H-636H-635C-635 -1494.55 -634.552 -1495 -634 -1495V-1496Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="madagascar" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#D80027"/>
+<rect id="Half" y="36" width="72" height="36" fill="#496E2D"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-732 -918C-732 -919.105 -731.105 -920 -730 -920H226C227.105 -920 228 -919.105 228 -918V1894C228 1895.1 227.105 1896 226 1896H-730C-731.105 1896 -732 1895.1 -732 1894V-918Z" fill="#444444"/>
+<path d="M-730 -920V-919H226V-920V-921H-730V-920ZM228 -918H227V1894H228H229V-918H228ZM226 1896V1895H-730V1896V1897H226V1896ZM-732 1894H-731V-918H-732H-733V1894H-732ZM-730 1896V1895C-730.552 1895 -731 1894.55 -731 1894H-732H-733C-733 1895.66 -731.657 1897 -730 1897V1896ZM228 1894H227C227 1894.55 226.552 1895 226 1895V1896V1897C227.657 1897 229 1895.66 229 1894H228ZM226 -920V-919C226.552 -919 227 -918.552 227 -918H228H229C229 -919.657 227.657 -921 226 -921V-920ZM-730 -920V-921C-731.657 -921 -733 -919.657 -733 -918H-732H-731C-731 -918.552 -730.552 -919 -730 -919V-920Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="gabon" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#FFDA44"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#0052B4"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

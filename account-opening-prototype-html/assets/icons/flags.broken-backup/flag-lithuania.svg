@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -1494C-348 -1495.1 -347.105 -1496 -346 -1496H610C611.105 -1496 612 -1495.1 612 -1494V1318C612 1319.1 611.105 1320 610 1320H-346C-347.105 1320 -348 1319.1 -348 1318V-1494Z" fill="#444444"/>
+<path d="M-346 -1496V-1495H610V-1496V-1497H-346V-1496ZM612 -1494H611V1318H612H613V-1494H612ZM610 1320V1319H-346V1320V1321H610V1320ZM-348 1318H-347V-1494H-348H-349V1318H-348ZM-346 1320V1319C-346.552 1319 -347 1318.55 -347 1318H-348H-349C-349 1319.66 -347.657 1321 -346 1321V1320ZM612 1318H611C611 1318.55 610.552 1319 610 1319V1320V1321C611.657 1321 613 1319.66 613 1318H612ZM610 -1496V-1495C610.552 -1495 611 -1494.55 611 -1494H612H613C613 -1495.66 611.657 -1497 610 -1497V-1496ZM-346 -1496V-1497C-347.657 -1497 -349 -1495.66 -349 -1494H-348H-347C-347 -1494.55 -346.552 -1495 -346 -1495V-1496Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="lithuania" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#6DA544"/>
+<rect id="Top Stripe" width="72" height="23.4844" fill="#FFDA44"/>
+<rect id="Bottom Stripe" y="48.5156" width="72" height="23.4844" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

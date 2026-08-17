@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -1206C-636 -1207.1 -635.105 -1208 -634 -1208H322C323.105 -1208 324 -1207.1 324 -1206V1606C324 1607.1 323.105 1608 322 1608H-634C-635.105 1608 -636 1607.1 -636 1606V-1206Z" fill="#444444"/>
+<path d="M-634 -1208V-1207H322V-1208V-1209H-634V-1208ZM324 -1206H323V1606H324H325V-1206H324ZM322 1608V1607H-634V1608V1609H322V1608ZM-636 1606H-635V-1206H-636H-637V1606H-636ZM-634 1608V1607C-634.552 1607 -635 1606.55 -635 1606H-636H-637C-637 1607.66 -635.657 1609 -634 1609V1608ZM324 1606H323C323 1606.55 322.552 1607 322 1607V1608V1609C323.657 1609 325 1607.66 325 1606H324ZM322 -1208V-1207C322.552 -1207 323 -1206.55 323 -1206H324H325C325 -1207.66 323.657 -1209 322 -1209V-1208ZM-634 -1208V-1209C-635.657 -1209 -637 -1207.66 -637 -1206H-636H-635C-635 -1206.55 -634.552 -1207 -634 -1207V-1208Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="ireland" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#6DA544"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#FF9811"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-636 -630C-636 -631.105 -635.105 -632 -634 -632H322C323.105 -632 324 -631.105 324 -630V2182C324 2183.1 323.105 2184 322 2184H-634C-635.105 2184 -636 2183.1 -636 2182V-630Z" fill="#444444"/>
+<path d="M-634 -632V-631H322V-632V-633H-634V-632ZM324 -630H323V2182H324H325V-630H324ZM322 2184V2183H-634V2184V2185H322V2184ZM-636 2182H-635V-630H-636H-637V2182H-636ZM-634 2184V2183C-634.552 2183 -635 2182.55 -635 2182H-636H-637C-637 2183.66 -635.657 2185 -634 2185V2184ZM324 2182H323C323 2182.55 322.552 2183 322 2183V2184V2185C323.657 2185 325 2183.66 325 2182H324ZM322 -632V-631C322.552 -631 323 -630.552 323 -630H324H325C325 -631.657 323.657 -633 322 -633V-632ZM-634 -632V-633C-635.657 -633 -637 -631.657 -637 -630H-636H-635C-635 -630.552 -634.552 -631 -634 -631V-632Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="costa-rica" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Stripe" y="12.5156" width="12.5156" height="72" transform="rotate(-90 0 12.5156)" fill="#0052B4"/>
+<rect id="Stripe_2" y="72" width="12.5156" height="72" transform="rotate(-90 0 72)" fill="#0052B4"/>
+<rect id="Stripe_3" y="23.4844" width="10.9687" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+<rect id="Stripe_4" y="59.4844" width="10.9687" height="72" transform="rotate(-90 0 59.4844)" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -1974C-348 -1975.1 -347.105 -1976 -346 -1976H610C611.105 -1976 612 -1975.1 612 -1974V838C612 839.104 611.105 840 610 840H-346C-347.105 840 -348 839.104 -348 838V-1974Z" fill="#444444"/>
+<path d="M-346 -1976V-1975H610V-1976V-1977H-346V-1976ZM612 -1974H611V838H612H613V-1974H612ZM610 840V839H-346V840V841H610V840ZM-348 838H-347V-1974H-348H-349V838H-348ZM-346 840V839C-346.552 839 -347 838.552 -347 838H-348H-349C-349 839.657 -347.657 841 -346 841V840ZM612 838H611C611 838.552 610.552 839 610 839V840V841C611.657 841 613 839.657 613 838H612ZM610 -1976V-1975C610.552 -1975 611 -1974.55 611 -1974H612H613C613 -1975.66 611.657 -1977 610 -1977V-1976ZM-346 -1976V-1977C-347.657 -1977 -349 -1975.66 -349 -1974H-348H-347C-347 -1974.55 -346.552 -1975 -346 -1975V-1976Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="peru" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#F0F0F0"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#D80027"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

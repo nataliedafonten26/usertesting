@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-540 -438C-540 -439.105 -539.105 -440 -538 -440H418C419.105 -440 420 -439.105 420 -438V2374C420 2375.1 419.105 2376 418 2376H-538C-539.105 2376 -540 2375.1 -540 2374V-438Z" fill="#444444"/>
+<path d="M-538 -440V-439H418V-440V-441H-538V-440ZM420 -438H419V2374H420H421V-438H420ZM418 2376V2375H-538V2376V2377H418V2376ZM-540 2374H-539V-438H-540H-541V2374H-540ZM-538 2376V2375C-538.552 2375 -539 2374.55 -539 2374H-540H-541C-541 2375.66 -539.657 2377 -538 2377V2376ZM420 2374H419C419 2374.55 418.552 2375 418 2375V2376V2377C419.657 2377 421 2375.66 421 2374H420ZM418 -440V-439C418.552 -439 419 -438.552 419 -438H420H421C421 -439.657 419.657 -441 418 -441V-440ZM-538 -440V-441C-539.657 -441 -541 -439.657 -541 -438H-540H-539C-539 -438.552 -538.552 -439 -538 -439V-440Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="bulgaria" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#496E2D"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

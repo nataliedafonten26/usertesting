@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-348 -2358C-348 -2359.1 -347.105 -2360 -346 -2360H610C611.105 -2360 612 -2359.1 612 -2358V454C612 455.104 611.105 456 610 456H-346C-347.105 456 -348 455.104 -348 454V-2358Z" fill="#444444"/>
+<path d="M-346 -2360V-2359H610V-2360V-2361H-346V-2360ZM612 -2358H611V454H612H613V-2358H612ZM610 456V455H-346V456V457H610V456ZM-348 454H-347V-2358H-348H-349V454H-348ZM-346 456V455C-346.552 455 -347 454.552 -347 454H-348H-349C-349 455.657 -347.657 457 -346 457V456ZM612 454H611C611 454.552 610.552 455 610 455V456V457C611.657 457 613 455.657 613 454H612ZM610 -2360V-2359C610.552 -2359 611 -2358.55 611 -2358H612H613C613 -2359.66 611.657 -2361 610 -2361V-2360ZM-346 -2360V-2361C-347.657 -2361 -349 -2359.66 -349 -2358H-348H-347C-347 -2358.55 -346.552 -2359 -346 -2359V-2360Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="sudan" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="20.3906" height="72" transform="rotate(-90 0 72)" fill="black"/>
+<rect id="Top Stripe" y="20.3906" width="20.3906" height="72" transform="rotate(-90 0 20.3906)" fill="#D80027"/>
+<path id="Triangle" d="M0 0L0 72C5.80964 66.1903 21.9412 50.0588 36 35.9999L0 0Z" fill="#496E2D"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

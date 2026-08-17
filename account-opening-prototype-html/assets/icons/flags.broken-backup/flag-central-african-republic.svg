@@ -1,0 +1,24 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-540 -534C-540 -535.105 -539.105 -536 -538 -536H418C419.105 -536 420 -535.105 420 -534V2278C420 2279.1 419.105 2280 418 2280H-538C-539.105 2280 -540 2279.1 -540 2278V-534Z" fill="#444444"/>
+<path d="M-538 -536V-535H418V-536V-537H-538V-536ZM420 -534H419V2278H420H421V-534H420ZM418 2280V2279H-538V2280V2281H418V2280ZM-540 2278H-539V-534H-540H-541V2278H-540ZM-538 2280V2279C-538.552 2279 -539 2278.55 -539 2278H-540H-541C-541 2279.66 -539.657 2281 -538 2281V2280ZM420 2278H419C419 2278.55 418.552 2279 418 2279V2280V2281C419.657 2281 421 2279.66 421 2278H420ZM418 -536V-535C418.552 -535 419 -534.552 419 -534H420H421C421 -535.657 419.657 -537 418 -537V-536ZM-538 -536V-537C-539.657 -537 -541 -535.657 -541 -534H-540H-539C-539 -534.552 -538.552 -535 -538 -535V-536Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="central-african-republic" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#0052B4"/>
+<rect id="Stripe" y="54" width="72" height="18" fill="#FFDA44"/>
+<rect id="Stripe_2" y="36" width="72" height="18" fill="#6DA544"/>
+<rect id="Stripe_3" y="18" width="72" height="18" fill="#F0F0F0"/>
+<rect id="Stripe_4" x="26.5781" width="18.8438" height="72" fill="#D80027"/>
+<path id="Symbol" d="M19.3641 7.82617L20.3353 10.8154H23.4787L20.9359 12.663L21.9072 15.6522L19.3641 13.8048L16.8212 15.6522L17.7928 12.663L15.25 10.8154H18.3931L19.3641 7.82617Z" fill="#FFDA44"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

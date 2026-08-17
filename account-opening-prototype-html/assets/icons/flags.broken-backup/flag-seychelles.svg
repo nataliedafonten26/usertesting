@@ -1,0 +1,23 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-828 -2166C-828 -2167.1 -827.105 -2168 -826 -2168H130C131.105 -2168 132 -2167.1 132 -2166V646C132 647.104 131.105 648 130 648H-826C-827.105 648 -828 647.104 -828 646V-2166Z" fill="#444444"/>
+<path d="M-826 -2168V-2167H130V-2168V-2169H-826V-2168ZM132 -2166H131V646H132H133V-2166H132ZM130 648V647H-826V648V649H130V648ZM-828 646H-827V-2166H-828H-829V646H-828ZM-826 648V647C-826.552 647 -827 646.552 -827 646H-828H-829C-829 647.657 -827.657 649 -826 649V648ZM132 646H131C131 646.552 130.552 647 130 647V648V649C131.657 649 133 647.657 133 646H132ZM130 -2168V-2167C130.552 -2167 131 -2166.55 131 -2166H132H133C133 -2167.66 131.657 -2169 130 -2169V-2168ZM-826 -2168V-2169C-827.657 -2169 -829 -2167.66 -829 -2166H-828H-827C-827 -2166.55 -826.552 -2167 -826 -2167V-2168Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="seychelles" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#6DA544"/>
+<path id="Stripe" d="M0 68.6953V0H72V54.9141L0 68.6953Z" fill="#F0F0F0"/>
+<path id="Stripe_2" d="M0 65.1094L3.8431e-05 0H72V35.7891L0 65.1094Z" fill="#D80027"/>
+<path id="Stripe_3" d="M0 58.2188V0H72L0 58.2188Z" fill="#FFDA44"/>
+<path id="Stripe_4" d="M0 46.6875V0H31.7109L0 46.6875Z" fill="#0052B4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

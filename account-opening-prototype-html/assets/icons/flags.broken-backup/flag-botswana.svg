@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-828 -342C-828 -343.105 -827.105 -344 -826 -344H130C131.105 -344 132 -343.105 132 -342V2470C132 2471.1 131.105 2472 130 2472H-826C-827.105 2472 -828 2471.1 -828 2470V-342Z" fill="#444444"/>
+<path d="M-826 -344V-343H130V-344V-345H-826V-344ZM132 -342H131V2470H132H133V-342H132ZM130 2472V2471H-826V2472V2473H130V2472ZM-828 2470H-827V-342H-828H-829V2470H-828ZM-826 2472V2471C-826.552 2471 -827 2470.55 -827 2470H-828H-829C-829 2471.66 -827.657 2473 -826 2473V2472ZM132 2470H131C131 2470.55 130.552 2471 130 2471V2472V2473C131.657 2473 133 2471.66 133 2470H132ZM130 -344V-343C130.552 -343 131 -342.552 131 -342H132H133C133 -343.657 131.657 -345 130 -345V-344ZM-826 -344V-345C-827.657 -345 -829 -343.657 -829 -342H-828H-827C-827 -342.552 -826.552 -343 -826 -343V-344Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="botswana" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#338AF3"/>
+<rect id="Stripe" y="29.8125" width="72" height="12.375" fill="black"/>
+<rect id="Stripe_2" y="25.0312" width="72" height="4.78125" fill="#F0F0F0"/>
+<rect id="Stripe_3" y="42.1875" width="72" height="4.78125" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

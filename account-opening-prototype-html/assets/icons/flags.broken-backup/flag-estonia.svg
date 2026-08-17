@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-444 -822C-444 -823.105 -443.105 -824 -442 -824H514C515.105 -824 516 -823.105 516 -822V1990C516 1991.1 515.105 1992 514 1992H-442C-443.105 1992 -444 1991.1 -444 1990V-822Z" fill="#444444"/>
+<path d="M-442 -824V-823H514V-824V-825H-442V-824ZM516 -822H515V1990H516H517V-822H516ZM514 1992V1991H-442V1992V1993H514V1992ZM-444 1990H-443V-822H-444H-445V1990H-444ZM-442 1992V1991C-442.552 1991 -443 1990.55 -443 1990H-444H-445C-445 1991.66 -443.657 1993 -442 1993V1992ZM516 1990H515C515 1990.55 514.552 1991 514 1991V1992V1993C515.657 1993 517 1991.66 517 1990H516ZM514 -824V-823C514.552 -823 515 -822.552 515 -822H516H517C517 -823.657 515.657 -825 514 -825V-824ZM-442 -824V-825C-443.657 -825 -445 -823.657 -445 -822H-444H-443C-443 -822.552 -442.552 -823 -442 -823V-824Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="estonia" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="black"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#0052B4"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,22 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-732 -1398C-732 -1399.1 -731.105 -1400 -730 -1400H226C227.105 -1400 228 -1399.1 228 -1398V1414C228 1415.1 227.105 1416 226 1416H-730C-731.105 1416 -732 1415.1 -732 1414V-1398Z" fill="#444444"/>
+<path d="M-730 -1400V-1399H226V-1400V-1401H-730V-1400ZM228 -1398H227V1414H228H229V-1398H228ZM226 1416V1415H-730V1416V1417H226V1416ZM-732 1414H-731V-1398H-732H-733V1414H-732ZM-730 1416V1415C-730.552 1415 -731 1414.55 -731 1414H-732H-733C-733 1415.66 -731.657 1417 -730 1417V1416ZM228 1414H227C227 1414.55 226.552 1415 226 1415V1416V1417C227.657 1417 229 1415.66 229 1414H228ZM226 -1400V-1399C226.552 -1399 227 -1398.55 227 -1398H228H229C229 -1399.66 227.657 -1401 226 -1401V-1400ZM-730 -1400V-1401C-731.657 -1401 -733 -1399.66 -733 -1398H-732H-731C-731 -1398.55 -730.552 -1399 -730 -1399V-1400Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="lebanon" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#F0F0F0"/>
+<rect id="Bottom Stripe" y="72" width="20.3906" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Top Stripe" y="20.3906" width="20.3906" height="72" transform="rotate(-90 0 20.3906)" fill="#D80027"/>
+<path id="Symbol" d="M45.3911 42.2609L35.9998 25.0435L26.6084 42.2609H33.6519V46.9565H38.3476V42.2609H45.3911Z" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-252 -1110C-252 -1111.1 -251.105 -1112 -250 -1112H706C707.105 -1112 708 -1111.1 708 -1110V1702C708 1703.1 707.105 1704 706 1704H-250C-251.105 1704 -252 1703.1 -252 1702V-1110Z" fill="#444444"/>
+<path d="M-250 -1112V-1111H706V-1112V-1113H-250V-1112ZM708 -1110H707V1702H708H709V-1110H708ZM706 1704V1703H-250V1704V1705H706V1704ZM-252 1702H-251V-1110H-252H-253V1702H-252ZM-250 1704V1703C-250.552 1703 -251 1702.55 -251 1702H-252H-253C-253 1703.66 -251.657 1705 -250 1705V1704ZM708 1702H707C707 1702.55 706.552 1703 706 1703V1704V1705C707.657 1705 709 1703.66 709 1702H708ZM706 -1112V-1111C706.552 -1111 707 -1110.55 707 -1110H708H709C709 -1111.66 707.657 -1113 706 -1113V-1112ZM-250 -1112V-1113C-251.657 -1113 -253 -1111.66 -253 -1110H-252H-251C-251 -1110.55 -250.552 -1111 -250 -1111V-1112Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="guinea" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" width="72" height="72" fill="#FFDA44"/>
+<rect id="Left Stripe" width="23.4844" height="72" fill="#D80027"/>
+<rect id="Right Stripe" x="48.5156" width="23.4844" height="72" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>

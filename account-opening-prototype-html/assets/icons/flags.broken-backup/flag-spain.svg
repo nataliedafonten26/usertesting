@@ -1,0 +1,21 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" fill="#1E1E1E"/>
+<g id="asset flag">
+<path d="M-156 -2358C-156 -2359.1 -155.105 -2360 -154 -2360H802C803.105 -2360 804 -2359.1 804 -2358V454C804 455.104 803.105 456 802 456H-154C-155.105 456 -156 455.104 -156 454V-2358Z" fill="#444444"/>
+<path d="M-154 -2360V-2359H802V-2360V-2361H-154V-2360ZM804 -2358H803V454H804H805V-2358H804ZM802 456V455H-154V456V457H802V456ZM-156 454H-155V-2358H-156H-157V454H-156ZM-154 456V455C-154.552 455 -155 454.552 -155 454H-156H-157C-157 455.657 -155.657 457 -154 457V456ZM804 454H803C803 454.552 802.552 455 802 455V456V457C803.657 457 805 455.657 805 454H804ZM802 -2360V-2359C802.552 -2359 803 -2358.55 803 -2358H804H805C805 -2359.66 803.657 -2361 802 -2361V-2360ZM-154 -2360V-2361C-155.657 -2361 -157 -2359.66 -157 -2358H-156H-155C-155 -2358.55 -154.552 -2359 -154 -2359V-2360Z" fill="white" fill-opacity="0.1"/>
+<g id="content">
+<g id="spain" clip-path="url(#clip0_0_1)">
+<g id="flag">
+<rect id="Background" y="72" width="72" height="72" transform="rotate(-90 0 72)" fill="#FFDA44"/>
+<rect id="Bottom Stripe" y="72" width="23.4844" height="72" transform="rotate(-90 0 72)" fill="#D80027"/>
+<rect id="Top Stripe" y="23.4844" width="23.4844" height="72" transform="rotate(-90 0 23.4844)" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="72" height="72" fill="white"/>
+</clipPath>
+</defs>
+</svg>
