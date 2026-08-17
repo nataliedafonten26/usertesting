@@ -2732,38 +2732,6 @@
         <button id="phone-continue-btn" aria-label="Continue" onclick="phoneContinue()" class="pill-btn pill-btn--primary" style="gap:8px;">Continue</button>
       </footer>
 
-      <div id="phone-keyboard" aria-hidden="true" style="position:absolute; bottom:0; left:0; right:0; z-index:10; border-top-left-radius:27px; border-top-right-radius:27px; overflow:hidden; transform:translateY(100%); transition:transform 0.35s cubic-bezier(0.32,0.72,0,1);">
-        <div style="background-color:rgba(230,233,237,0.95); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border-top:1px solid rgba(0,0,0,0.1); height:44px; display:flex; align-items:flex-start; justify-content:center; padding-top:2px;">
-          <button onclick="phoneUseSuggestion()" style="display:flex; flex-direction:column; align-items:center; justify-content:center; padding:0 24px; height:100%; background:none; border:none; cursor:pointer; gap:1px;">
-            <span style="font-family:-apple-system, 'SF Pro Text', sans-serif; font-size:12px; font-weight:500; color:#3a3b3d; line-height:16px;">iPhone</span>
-            <span id="phone-suggestion-text" style="font-family:-apple-system, 'SF Pro Text', sans-serif; font-size:18px; font-weight:500; color:#3a3b3d; line-height:22px;">+49 162 238 2094</span>
-          </button>
-        </div>
-        <div style="background-color:rgba(230,233,237,0.95); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); padding:8px 4px 76px; display:flex; flex-direction:column; gap:6px;">
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('1')">1</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('2')">2</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('3')">3</button>
-          </div>
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('4')">4</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('5')">5</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('6')">6</button>
-          </div>
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('7')">7</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('8')">8</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('9')">9</button>
-          </div>
-          <div style="display:flex; gap:6px;">
-            <div style="flex:1 0 0; height:50px;"></div>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:23px; font-weight:400;" onclick="phoneKeyPress('0')">0</button>
-            <button class="key" style="background-color:transparent;" onclick="phoneBackspace()">
-              <svg width="24" height="18" viewBox="0 0 24 18" fill="none"><path d="M9.5 1L1 9L9.5 17H23V1H9.5Z" stroke="#595959" stroke-width="1.5" stroke-linejoin="round"/><path d="M15 6L11 10M11 6L15 10" stroke="#595959" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </button>
-          </div>
-        </div>
-      </div>
 
       <!-- Phone country picker modal (ported from concept-b's bottom-sheet "Select country" modal pattern) -->
       <div id="phone-country-modal-backdrop" onclick="closePhoneCountryPicker()" style="position:absolute; inset:0; z-index:20; background:rgba(0,0,0,0.45); opacity:0; visibility:hidden; transition:opacity 0.32s ease, visibility 0.32s ease;"></div>
@@ -2827,6 +2795,7 @@
         <div class="otp-box" data-index="2" style="width:56px; height:80px; border-radius:16px; background:#ede7e0; border:2px solid transparent; display:flex; align-items:center; justify-content:center; box-sizing:border-box; flex-shrink:0;"></div>
         <div class="otp-box" data-index="3" style="width:56px; height:80px; border-radius:16px; background:#ede7e0; border:2px solid transparent; display:flex; align-items:center; justify-content:center; box-sizing:border-box; flex-shrink:0;"></div>
       </div>
+      <input id="otp-input" type="tel" inputmode="numeric" pattern="[0-9]*" maxlength="4" autocomplete="one-time-code" oninput="otpHandleInput()" style="position:absolute; top:26.3%; left:0; right:0; width:248px; height:80px; margin:0 auto; opacity:0; border:none; background:none; padding:0; z-index:5;" />
 
       <div id="otp-resend-wrap" style="position:absolute; bottom:37.8%; left:16px; right:16px; z-index:10; transform:translateY(0); transition:transform 0.35s cubic-bezier(0.32,0.72,0,1);">
         <button id="otp-resend-btn" onclick="otpResend()" class="pill-btn pill-btn--secondary" style="transition:color 0.2s;">Resend in 30 sec</button>
@@ -2841,28 +2810,6 @@
         </div>
       </div>
 
-      <div style="position:absolute; bottom:0; left:0; right:0; background:rgba(230,233,237,0.95); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border-radius:0 0 62px 62px; padding:20px 8px 76px; display:flex; flex-direction:column; gap:6px;">
-        <div style="display:flex; gap:6px;">
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('1')">1</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('2')">2</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('3')">3</button>
-        </div>
-        <div style="display:flex; gap:6px;">
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('4')">4</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('5')">5</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('6')">6</button>
-        </div>
-        <div style="display:flex; gap:6px;">
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('7')">7</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('8')">8</button>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('9')">9</button>
-        </div>
-        <div style="display:flex; gap:6px;">
-          <div style="flex:1; height:50px;"></div>
-          <button class="key" style="background:white; color:#595959; font-size:23px;" onclick="otpKeyPress('0')">0</button>
-          <button class="key" style="background:#adb2ba; color:#595959; font-size:20px;" onclick="otpKeyPress('backspace')">⌫</button>
-        </div>
-      </div>
     </div>
 
     <!-- ======================= 04B · EMAIL ======================= -->
@@ -3084,52 +3031,6 @@
         <footer style="padding:16px 16px 16px; background-color:#faf8f5;">
           <button id="password-continue-btn" aria-label="Continue" onclick="passwordContinue()" class="pill-btn pill-btn--primary">Continue</button>
         </footer>
-        <div style="background-color:rgba(230,233,237,0.95); backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); border-top-left-radius:27px; border-top-right-radius:27px; overflow:hidden; padding:8px 4px 76px; display:flex; flex-direction:column; gap:6px;">
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('q')">q</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('w')">w</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('e')">e</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('r')">r</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('t')">t</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('y')">y</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('u')">u</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('i')">i</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('o')">o</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('p')">p</button>
-          </div>
-          <div style="display:flex; gap:6px; padding:0 18px;">
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('a')">a</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('s')">s</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('d')">d</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('f')">f</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('g')">g</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('h')">h</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('j')">j</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('k')">k</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('l')">l</button>
-          </div>
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="flex:1.5 0 0; background-color:rgba(172,179,189,0.7); color:#1b1b1b;" aria-label="Shift" onclick="passwordShiftPress()">
-              <svg width="17" height="16" viewBox="0 0 17 16" fill="none"><path d="M8.5 0L16 9H12V16H5V9H1L8.5 0Z" fill="#1b1b1b"/></svg>
-            </button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('z')">z</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('x')">x</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('c')">c</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('v')">v</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('b')">b</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('n')">n</button>
-            <button class="key" style="background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:19px; font-weight:400;" onclick="passwordKeyPress('m')">m</button>
-            <button class="key" style="flex:1.5 0 0; background-color:rgba(172,179,189,0.7);" aria-label="Delete" onclick="passwordBackspace()">
-              <svg width="24" height="18" viewBox="0 0 24 18" fill="none"><path d="M9.5 1L1 9L9.5 17H23V1H9.5Z" stroke="#1b1b1b" stroke-width="1.5" stroke-linejoin="round"/><path d="M15 6L11 10M11 6L15 10" stroke="#1b1b1b" stroke-width="1.5" stroke-linecap="round"/></svg>
-            </button>
-          </div>
-          <div style="display:flex; gap:6px;">
-            <button class="key" style="flex:1.5 0 0; background-color:rgba(172,179,189,0.7); color:#1b1b1b; font-size:16px;" onclick="passwordToggleNumeric()">123</button>
-            <button class="key" style="flex:1 0 0; background-color:rgba(172,179,189,0.7); font-size:18px;" aria-label="Emoji" onclick="passwordKeyPress('🙂')">🙂</button>
-            <button class="key" style="flex:5 0 0; background-color:rgba(255,255,255,0.85); color:#1b1b1b; font-size:16px; font-weight:400;" onclick="passwordKeyPress(' ')">space</button>
-            <button class="key" style="flex:1.5 0 0; background-color:#003b39; color:#fff; font-size:16px; font-weight:500;" onclick="passwordReturnPress()">return</button>
-          </div>
-        </div>
       </div>
     </div>
 
@@ -6252,7 +6153,6 @@ var FLAG_DATA_URIS = {
     if (match && match.name !== phoneCountry.name) {
       phoneCountry = { name: match.name, flag: '', dialCode: match.dialCode };
       document.getElementById('phone-country-flag').innerHTML = flagEmojiOrImg(phoneCountry.name, phoneCountry.flag);
-      document.getElementById('phone-suggestion-text').textContent = phoneCountry.dialCode + ' ' + SUGGESTED_DIGITS;
     }
   }
 
@@ -6626,9 +6526,7 @@ var FLAG_DATA_URIS = {
   }
 
   /* ---------- Phone ---------- */
-  var SUGGESTED_DIGITS = '162 238 2094';
   var phoneCountry = DEFAULT_COUNTRY;
-  var phoneShowSuggestionTimer = null;
   var phoneLoading = false;
 
   function initPhone() {
@@ -6636,32 +6534,11 @@ var FLAG_DATA_URIS = {
     phoneLoading = false;
     document.getElementById('phone-country-flag').innerHTML = flagEmojiOrImg(phoneCountry.name, phoneCountry.flag);
     document.getElementById('phone-input').value = phoneCountry.dialCode;
-    document.getElementById('phone-suggestion-text').textContent = phoneCountry.dialCode + ' ' + SUGGESTED_DIGITS;
     document.getElementById('phone-footer').style.transform = 'translateY(0px)';
-    document.getElementById('phone-keyboard').style.transform = 'translateY(100%)';
     document.getElementById('phone-continue-btn').innerHTML = 'Continue';
     closePhoneCountryPicker();
 
-    if (phoneShowSuggestionTimer) clearTimeout(phoneShowSuggestionTimer);
-    phoneShowSuggestionTimer = setTimeout(function () {
-      var kb = document.getElementById('phone-keyboard');
-      var h = kb.offsetHeight;
-      document.getElementById('phone-footer').style.transform = 'translateY(-' + h + 'px)';
-      kb.style.transform = 'translateY(0)';
-    }, 1000);
-
     setTimeout(function () { document.getElementById('phone-input').focus(); }, 0);
-  }
-
-  function phoneKeyPress(k) {
-    var input = document.getElementById('phone-input');
-    input.value = input.value + k;
-    updatePhoneFlagFromInput();
-  }
-  function phoneBackspace() {
-    var input = document.getElementById('phone-input');
-    input.value = input.value.slice(0, -1);
-    updatePhoneFlagFromInput();
   }
 
   function phoneGoNext() {
@@ -6673,11 +6550,6 @@ var FLAG_DATA_URIS = {
 
   function phoneContinue() {
     if (phoneLoading) return;
-    phoneGoNext();
-  }
-
-  function phoneUseSuggestion() {
-    document.getElementById('phone-input').value = phoneCountry.dialCode + SUGGESTED_DIGITS.replace(/\s/g, '');
     phoneGoNext();
   }
 
@@ -6762,7 +6634,6 @@ var FLAG_DATA_URIS = {
     phoneCountry = c;
     document.getElementById('phone-country-flag').innerHTML = flagEmojiOrImg(phoneCountry.name, phoneCountry.flag);
     input.value = phoneCountry.dialCode + rest;
-    document.getElementById('phone-suggestion-text').textContent = phoneCountry.dialCode + ' ' + SUGGESTED_DIGITS;
   }
 
   function openPhoneCountryPicker() {
@@ -6795,6 +6666,7 @@ var FLAG_DATA_URIS = {
     otpActive = 0;
     otpResendSecs = 30;
     otpResendEnabled = false;
+    document.getElementById('otp-input').value = '';
     document.getElementById('sms-banner-code').textContent = SMS_CODE;
     document.getElementById('otp-suggestion-code').textContent = SMS_CODE;
     renderOtpBoxes();
@@ -6831,6 +6703,8 @@ var FLAG_DATA_URIS = {
       banner.style.transform = 'translateY(-130%)';
       banner.style.opacity = '0';
     }, 4000);
+
+    setTimeout(function () { document.getElementById('otp-input').focus(); }, 0);
   }
 
   function updateResendLabel() {
@@ -6876,27 +6750,23 @@ var FLAG_DATA_URIS = {
     });
   }
 
-  function otpKeyPress(key) {
-    if (key === 'backspace') {
-      var pos = (otpActive > 0 && otpDigits[otpActive] === '') ? otpActive - 1 : otpActive;
-      otpDigits[pos] = '';
-      otpActive = pos;
-      renderOtpBoxes();
-    } else {
-      if (otpActive > 3) return;
-      otpDigits[otpActive] = key;
-      var nextActive = otpActive + 1;
-      otpActive = nextActive;
-      renderOtpBoxes();
-      if (nextActive === 4) {
-        setTimeout(function () { navigate('screen-otp', 'screen-email', 'forward'); }, 400);
-      }
+  function otpHandleInput() {
+    var input = document.getElementById('otp-input');
+    var digits = input.value.replace(/\D/g, '').slice(0, 4);
+    input.value = digits;
+    otpDigits = digits.split('');
+    while (otpDigits.length < 4) otpDigits.push('');
+    otpActive = digits.length;
+    renderOtpBoxes();
+    if (digits.length === 4) {
+      setTimeout(function () { navigate('screen-otp', 'screen-email', 'forward'); }, 400);
     }
   }
 
   function otpAutofill() {
     otpDigits = SMS_CODE.split('');
     otpActive = 4;
+    document.getElementById('otp-input').value = SMS_CODE;
     document.getElementById('otp-suggestion').style.transform = 'translateY(100%)';
     renderOtpBoxes();
     setTimeout(function () { navigate('screen-otp', 'screen-email', 'forward'); }, 400);
@@ -7035,12 +6905,10 @@ var FLAG_DATA_URIS = {
   var PASSWORD_EYE_CLOSED = '<svg aria-hidden="true" width="20" height="10" viewBox="0 0 20.1206 9.31006" fill="none"><path d="M1.60718 0.547119C2.78 1.79813 6.14595 4.31006 10.0601 4.31006C14.0016 4.31006 17.3747 2.02102 18.5388 0.895752L19.0781 0.374512L20.1206 1.45312L19.5813 1.97437C19.0203 2.51666 18.0376 3.27973 16.7562 3.98265C16.2633 4.25302 16.0493 4.86171 16.3007 5.36451L17.231 7.22461L15.8892 7.89551L14.8471 5.81124C14.6212 5.35936 14.0947 5.15088 13.6093 5.29098C13.0133 5.463 12.3896 5.6008 11.7439 5.69101C11.2212 5.76405 10.8101 6.19692 10.8101 6.72473V9.31006H9.31006V6.71664C9.31006 6.19114 8.90228 5.75973 8.3828 5.68049C7.7523 5.58432 7.14283 5.43836 6.55972 5.25618C6.06722 5.10231 5.52436 5.30827 5.29364 5.76979L4.23096 7.89551L2.88916 7.22461L3.88722 5.22848C4.13279 4.73734 3.93435 4.14258 3.46202 3.86255C2.11644 3.06479 1.0884 2.18682 0.512939 1.573L0 1.02588L1.09424 0L1.60718 0.547119Z" fill="#1B1B1B"/></svg>';
   var PASSWORD_EYE_OPEN = '<svg aria-hidden="true" width="20" height="20" viewBox="0 0 20.1821 20" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M10.0911 6.25C12.1621 6.25 13.8411 7.92893 13.8411 10C13.8411 12.0711 12.1621 13.75 10.0911 13.75C8.02 13.75 6.34106 12.0711 6.34106 10C6.34106 7.92893 8.02 6.25 10.0911 6.25ZM10.0911 7.75C8.84842 7.75 7.84106 8.75736 7.84106 10C7.84106 11.2426 8.84842 12.25 10.0911 12.25C11.3337 12.25 12.3411 11.2426 12.3411 10C12.3411 8.75736 11.3337 7.75 10.0911 7.75Z" fill="#1B1B1B"/><path fill-rule="evenodd" clip-rule="evenodd" d="M10.8411 2.33806C10.8411 2.86506 11.2512 3.29634 11.7722 3.37552C12.469 3.48141 13.1196 3.6509 13.7254 3.86958C14.2374 4.05441 14.8241 3.85682 15.0676 3.36993L15.9202 1.66455L17.262 2.33545L16.3303 4.19869C16.1047 4.64967 16.2538 5.19447 16.649 5.50765C18.4622 6.94469 19.563 8.75026 20.0369 9.92676L20.1821 10.2876L19.9707 10.6145C19.3281 11.6072 18.3039 13.1983 16.6562 14.5115C16.2624 14.8253 16.1143 15.3692 16.3395 15.8195L17.262 17.6646L15.9202 18.3354L15.0763 16.6473C14.8333 16.1612 14.2479 15.9634 13.736 16.1456C13.1339 16.3598 12.482 16.5263 11.7757 16.6296C11.253 16.7061 10.8411 17.138 10.8411 17.6662V20H9.34106V17.6662C9.34106 17.138 8.92909 16.7061 8.4064 16.6296C7.70012 16.5263 7.04809 16.3599 6.44602 16.1457C5.93399 15.9635 5.34862 16.1613 5.10564 16.6474L4.26196 18.3354L2.92017 17.6646L3.84253 15.8195C4.06763 15.3692 3.91948 14.8253 3.5258 14.5115C1.87815 13.1983 0.854015 11.6072 0.211426 10.6145L0 10.2876L0.145264 9.92676C0.619124 8.75028 1.71986 6.94466 3.53298 5.50762C3.92811 5.19445 4.07718 4.6497 3.85173 4.19874L2.92017 2.33545L4.26196 1.66455L5.11435 3.36981C5.35775 3.85675 5.94455 4.05438 6.4566 3.86954C7.0624 3.65086 7.71308 3.48139 8.40989 3.37551C8.9309 3.29634 9.34106 2.86506 9.34106 2.33806V0H10.8411V2.33806ZM10.0911 4.75C6.6415 4.75 4.28475 6.51652 2.88688 8.25029C2.01358 9.33345 2.11221 10.8819 3.01884 11.9373C4.44553 13.5981 6.61966 15.25 10.0911 15.25C13.5624 15.25 15.7364 13.5982 17.163 11.9374C18.0697 10.8819 18.1683 9.33343 17.295 8.25025C15.8972 6.51648 13.5406 4.75 10.0911 4.75Z" fill="#1B1B1B"/></svg>';
 
-  var passwordActiveFieldId = 'pw';
   var passwordVisible = { pw: false, confirm: false };
 
   function initPassword() {
     passwordVisible = { pw: false, confirm: false };
-    passwordActiveFieldId = 'pw';
     document.getElementById('password-pw-input').value = '';
     document.getElementById('password-confirm-input').value = '';
     setPasswordEyeIcon('pw');
@@ -7052,7 +6920,6 @@ var FLAG_DATA_URIS = {
       if (input.dataset.focusBound) return;
       input.dataset.focusBound = 'true';
       input.addEventListener('focus', function () {
-        passwordActiveFieldId = which;
         field.classList.add('is-focused');
       });
       input.addEventListener('blur', function () {
@@ -7074,18 +6941,6 @@ var FLAG_DATA_URIS = {
     btn.innerHTML = passwordVisible[which] ? PASSWORD_EYE_OPEN : PASSWORD_EYE_CLOSED;
     btn.setAttribute('aria-label', passwordVisible[which] ? 'Hide password' : 'Show password');
   }
-
-  function passwordKeyPress(k) {
-    var input = document.getElementById('password-' + passwordActiveFieldId + '-input');
-    input.value += k;
-  }
-  function passwordBackspace() {
-    var input = document.getElementById('password-' + passwordActiveFieldId + '-input');
-    input.value = input.value.slice(0, -1);
-  }
-  function passwordShiftPress() { /* no case-toggle implemented — stub, matches other keyboards' simplification */ }
-  function passwordToggleNumeric() { /* no numeric layer implemented — stub, matches other keyboards' simplification */ }
-  function passwordReturnPress() { passwordContinue(); }
 
   function passwordContinue() {
     navigate('screen-password', 'screen-touch-id', 'forward');
